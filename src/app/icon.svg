@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" fill="none">
+  <defs>
+    <linearGradient id="favify-app-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#4338ca" />
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="28" fill="url(#favify-app-grad)" />
+  <g transform="translate(60 60) scale(1.15) translate(-60 -60)">
+    <path d="M38 30H82C85.3 30 88 32.7 88 36V40C88 43.3 85.3 46 82 46H54V56H74C77.3 56 80 58.7 80 62V64C80 67.3 77.3 70 74 70H54V86C54 89.3 51.3 92 48 92H44C40.7 92 38 89.3 38 86V30Z" fill="#ffffff" />
+    <path d="M84 68L87.5 76.5L96 80L87.5 83.5L84 92L80.5 83.5L72 80L80.5 76.5L84 68Z" fill="#c7d2fe" />
+  </g>
+</svg>
